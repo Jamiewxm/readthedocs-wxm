@@ -1,1 +1,1 @@
-Search.setIndex({envversion:42,terms:{content:0,index:0,modul:0,search:0,page:0},objtypes:{},objnames:{},filenames:["index"],titles:["Welcome to ReadDocs&#8217;s documentation!"],objects:{},titleterms:{readdoc:0,document:0,welcom:0,indic:0,tabl:0}})
+Search.setIndex({envversion:42,terms:{index:0,search:0,modul:0,content:0,"\u5185\u5bb9":0,"\u8fd9\u662f\u4e00\u4e2a\u4f8b\u5b50":0,page:0},objtypes:{},objnames:{},filenames:["index"],titles:["Welcome to ReadDocs&#8217;s documentation!"],objects:{},titleterms:{readdoc:0,document:0,welcom:0,indic:0,tabl:0}})
